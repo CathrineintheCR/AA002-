@@ -46,10 +46,10 @@ NO.1zoom会议 |   |   |   |   |   |  
 
 
 ## 后记
-AA002 结业作业分享PPT [结业作业项目中几点总结](https://github.com/CathrineintheCR/AA002-/issues/5）
+AA002 结业作业分享PPT [结业作业项目中几点总结](https://github.com/CathrineintheCR/AA002-/issues/5)
 
 
 
 ### ChangLog
-2019年6月20日19:59:58 冁然创建框架
-2019年6月26日19:39:58 冁然补充内容
+- 2019年6月20日19:59:58 冁然创建框架
+- 2019年6月26日19:39:58 冁然补充内容
