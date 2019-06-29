@@ -41,12 +41,13 @@ NO.1zoom会议 |   |   |   |   |   |  
 
 
 ## 资料汇总
-项目过程参见：[issue](https://github.com/CathrineintheCR/AA002-/issues)
-项目成果参见：[20190626 最终项目成果展示 ](https://github.com/CathrineintheCR/AA002-/issues/4)
+- 项目过程参见：[issue](https://github.com/CathrineintheCR/AA002-/issues)
+- 项目成果参见：[20190626 最终项目成果展示 ](https://github.com/CathrineintheCR/AA002-/issues/4)
 
 
 ## 后记
-大作业推进过程总结PPT
+AA002 结业作业分享PPT [结业作业项目中几点总结](https://github.com/CathrineintheCR/AA002-/issues/5）
+
 
 
 ### ChangLog
